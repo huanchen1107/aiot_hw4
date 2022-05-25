@@ -1,4 +1,4 @@
-# Huan Chen's Homework #5 (complete)
+# Huan Chen's Homework #5 (Python Flask)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
@@ -31,5 +31,7 @@
 '''
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
 
-
-
+8. Final Result no AI
+![noAI](noAI.jpg)
+9 Final Result with AI @300 threshold
+![AI](AI.jpg)
